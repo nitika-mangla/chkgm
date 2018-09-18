@@ -1,0 +1,48 @@
+{
+  "content": {
+    "brs": [],
+    "conditional": {
+      "name": "Canada_Content_PrintedDocs",
+      "path": "../expressions/Canada_Content_PrintedDocs.expn"
+    },
+    "glossary": {
+      "name": "EmployeeCare3",
+      "path": "../../glossary/EmployeeCare3.glo"
+    },
+    "index": true,
+    "masterpage": {
+      "name": "check",
+      "path": "../../contents/assets/masterpages/check.htt"
+    },
+    "toc": {
+      "name": "EmployeeCare3",
+      "path": "../../toc/EmployeeCare3.toc"
+    },
+    "variable": {
+      "name": "Canada",
+      "path": "../variablesets/Canada.var"
+    }
+  },
+  "defaultTopic": "",
+  "name": "Printed Documentation Canada - Letter Arial Cover 1",
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Printed_Documentation_Canada",
+  "pdf": {
+    "margin": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "multiHeaders": false
+  },
+  "search": {
+    "context": false
+  },
+  "sitemap": {
+    "changeFrequency": "",
+    "use": false
+  },
+  "starterPage": "Employee_Care_Canada.pdf",
+  "title": "empcare",
+  "type": "pdf"
+}

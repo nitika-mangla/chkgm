@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page navtitle="Sales Staff Video" href="../contents/Employee_Care/HR_Policies/Sales_Staff_Video.htm" format="html" processing-role="normal"></page>
+  <page navtitle="About Employee Care 3" href="../contents/AUTHOR_INFO_READ_FIRST/READ_FIRST.htm" format="html" processing-role="normal"></page>
+  <page navtitle="Multiscreen HTML5 Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Multiscreen_HTML5_Output.htm" format="html" processing-role="normal"></page>
+</map>

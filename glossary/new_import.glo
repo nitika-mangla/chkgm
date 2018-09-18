@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="new_import">          
+<title>Glossary Definitions</title>        
+<glossentry id="employee">
+<glossterm>employee</glossterm>
+<glossdef>checking for a definition</glossdef></glossentry>
+<glossentry id="equal">
+<glossterm>equal</glossterm>
+<glossdef>again defining equal</glossdef></glossentry></glossgroup>

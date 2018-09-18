@@ -1,0 +1,39 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/eBook.toc",
+      "name": "eBook"
+    },
+    "glossary": {
+      "path": "../../glossary/eBook.glo",
+      "name": "eBook"
+    },
+    "conditional": {
+      "name": "eBook_Content",
+      "path": "../expressions/eBook_Content.expn"
+    },
+    "variable": {
+      "name": "US",
+      "path": "../variablesets/US.var"
+    },
+    "masterpage": {
+      "name": "EmployeeCare_eBook",
+      "path": "../../contents/assets/masterpages/EmployeeCare_eBook.htt"
+    },
+    "brs": []
+  },
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/eBook",
+  "starterPage": "EmployeeCareRh.epub",
+  "search": {
+    "context": false
+  },
+  "sitemap": {
+    "use": false,
+    "changeFrequency": ""
+  },
+  "name": "eBook",
+  "type": "epub",
+  "title": "Policies and Procedures",
+  "defaultTopic": ""
+}

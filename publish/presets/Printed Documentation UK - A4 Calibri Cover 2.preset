@@ -1,0 +1,48 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/EmployeeCare3.toc",
+      "name": "EmployeeCare3"
+    },
+    "glossary": {
+      "path": "../../glossary/EmployeeCare3.glo",
+      "name": "EmployeeCare3"
+    },
+    "conditional": {
+      "name": "UK_Content_PrintedDocs",
+      "path": "../expressions/UK_Content_PrintedDocs.expn"
+    },
+    "variable": {
+      "name": "UK",
+      "path": "../variablesets/UK.var"
+    },
+    "masterpage": {
+      "name": "<Multiple>",
+      "path": "../../contents/assets/masterpages/<Multiple>.htt"
+    },
+    "brs": []
+  },
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Printed_Documentation_UK_A4",
+  "starterPage": "Employee_Care_UK.pdf",
+  "search": {
+    "context": false
+  },
+  "sitemap": {
+    "use": false,
+    "changeFrequency": ""
+  },
+  "name": "Printed Documentation UK - A4 Calibri Cover 2",
+  "type": "pdf",
+  "title": "empcare",
+  "defaultTopic": "",
+  "pdf": {
+    "multiHeaders": false,
+    "margin": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

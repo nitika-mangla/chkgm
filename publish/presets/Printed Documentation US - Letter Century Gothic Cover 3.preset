@@ -1,0 +1,48 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/EmployeeCare3.toc",
+      "name": "EmployeeCare3"
+    },
+    "glossary": {
+      "path": "../../glossary/EmployeeCare3.glo",
+      "name": "EmployeeCare3"
+    },
+    "conditional": {
+      "name": "US_Content_PrintedDocs",
+      "path": "../expressions/US_Content_PrintedDocs.expn"
+    },
+    "variable": {
+      "name": "US",
+      "path": "../variablesets/US.var"
+    },
+    "masterpage": {
+      "name": "<Multiple>",
+      "path": "../../contents/assets/masterpages/<Multiple>.htt"
+    },
+    "brs": []
+  },
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Printed_Documentation_US_Century_Gothic",
+  "starterPage": "Employee_Care_US.pdf",
+  "search": {
+    "context": false
+  },
+  "sitemap": {
+    "use": false,
+    "changeFrequency": ""
+  },
+  "name": "Printed Documentation US - Letter Century Gothic Cover 3",
+  "type": "pdf",
+  "title": "empcare",
+  "defaultTopic": "",
+  "pdf": {
+    "multiHeaders": false,
+    "margin": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

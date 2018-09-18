@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page navtitle="Introduction" href="../contents/Employee_Care/Introduction.htm"></page>
+  <book navtitle="For Authors">
+    <page navtitle="About Employee Care 3" href="../contents/AUTHOR_INFO_READ_FIRST/READ_FIRST.htm"></page>
+    <page navtitle="About RoboHelp 2015" href="../contents/AUTHOR_INFO_READ_FIRST/About_RoboHelp_2015.htm"></page>
+    <page navtitle="About RoboHelp 11" href="../contents/AUTHOR_INFO_READ_FIRST/About_Rh_11.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/new_topic2.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Features/new_topic1.htm"></page>
+    <page navtitle="Explore Feature and Workflow Topics" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Explore_Feature_and_Workflow_Topics_.htm"></page>
+    <page navtitle="The Employee Care 3 Outputs" href="../contents/AUTHOR_INFO_READ_FIRST/The_Employee_Care_Outputs.htm"></page>
+    <book navtitle="RoboHelp Features">
+      <page navtitle="Dynamic Content Filtering" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Dynamic_Content_Filtering.htm"></page>
+      <page navtitle="Content Categories" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Content_Categories.htm"></page>
+      <page navtitle="New Responsive HTML5 Layouts" href="../contents/AUTHOR_INFO_READ_FIRST/Features/New_Responsive_HTML5_Layouts.htm"></page>
+      <page navtitle="The New User Interface" href="../contents/AUTHOR_INFO_READ_FIRST/Features/The_User_Interface.htm"></page>
+      <page navtitle="Creating Mobile Apps" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Creating_Mobile_Apps.htm"></page>
+      <page navtitle="Embedded Fonts in eBooks" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Embedded_Fonts_in_eBooks.htm"></page>
+      <page navtitle="Find and Replace" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Find_and_Replace.htm"></page>
+      <page navtitle="Search Technique Enhancements" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Search_Technique_Enhancements.htm"></page>
+      <page navtitle="Adobe Captivate HTML5 Videos" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Adobe_Captivate_HTML5_Videos.htm"></page>
+      <page navtitle="Word and FrameMaker Docs" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Word_and_FrameMaker_Docs.htm"></page>
+      <page navtitle="SharePoint Integration" href="../contents/AUTHOR_INFO_READ_FIRST/Features/SharePoint_Integration.htm"></page>
+      <page navtitle="Sharing Topics and Other Resources" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Sharing_Topics_and_Other_Resources.htm"></page>
+      <page navtitle="Acrobat PDF based Review" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Acrobat_PDF_based_Review.htm"></page>
+      <page navtitle="Master Pages" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Master_Pages.htm"></page>
+      <page navtitle="Scripts" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Scripts.htm"></page>
+      <page navtitle="Snippets" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Snippets.htm"></page>
+      <page navtitle="Bits and Pieces" href="../contents/AUTHOR_INFO_READ_FIRST/Features/Bits_and_Pieces.htm"></page>
+    </book>
+    <book navtitle="Generating Help">
+      <page navtitle="Responsive HTML5 Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Responsive_HTML5_Output.htm"></page>
+      <page navtitle="Mobile App Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Mobile_App_Output.htm"></page>
+      <page navtitle="Multiscreen HTML5 Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Multiscreen_HTML5_Output.htm"></page>
+      <page navtitle="WebHelp Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/WebHelp_Output.htm"></page>
+      <page navtitle="Microsoft HTML Output - CHMs" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Microsoft_HTML_Output_CHM.htm"></page>
+      <page navtitle="Printed Documentation Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Printed_Documentation_Output.htm"></page>
+      <page navtitle="eBook Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/eBook_Output.htm"></page>
+      <page navtitle="XML Output" href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/XML_Output.htm"></page>
+    </book>
+  </book>
+  <book navtitle="HR Policies and Procedures">
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/new_topic.htm"></page>
+    <page navtitle="Attendance" href="../contents/Employee_Care/HR_Policies/Attendance.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/new_topic1.htm"></page>
+    <page navtitle="Company Sick Pay" href="../contents/Employee_Care/HR_Policies/Company_Sick_Pay.htm"></page>
+    <page navtitle="Dependants Leave" href="../contents/Employee_Care/HR_Policies/Dependants_Leave.htm"></page>
+    <page navtitle="Disciplinary Procedure" href="../contents/Employee_Care/HR_Policies/Disciplinary_Procedure.htm"></page>
+    <page navtitle="Equal Opportunities" href="../contents/Employee_Care/HR_Policies/Equal_Opportunities.htm"></page>
+    <page navtitle="Flexible Working" href="../contents/Employee_Care/HR_Policies/Flexible_Working.htm"></page>
+    <page navtitle="Grievances" href="../contents/Employee_Care/HR_Policies/Grievances.htm"></page>
+    <page navtitle="Harassment" href="../contents/Employee_Care/HR_Policies/Harassment.htm"></page>
+    <page navtitle="Health and Safety" href="../contents/Employee_Care/HR_Policies/Health_and_Safety.htm"></page>
+  </book>
+  <book navtitle="Company Benefits">
+    <page navtitle="Company Cars" href="../contents/Employee_Care/Benefits/Cars.htm"></page>
+    <page navtitle="Healthcare" href="../contents/Employee_Care/Benefits/Healthcare.htm"></page>
+  </book>
+  <book navtitle="Travel">
+    <page navtitle="Bookings" href="../contents/Employee_Care/Travel/Bookings.htm"></page>
+    <page navtitle="Expenses" href="../contents/Employee_Care/Travel/Expenses.htm"></page>
+  </book>
+  <book navtitle="New and Retiring Employees">
+    <page navtitle="New Employee Checklist" href="../contents/Employee_Care/HR_Policies/New Employee Checklist/New_Employee_Checklist.htm"></page>
+    <page navtitle="Retiring Employees" href="../contents/Employee_Care/HR_Policies/Retiring_Employees.htm"></page>
+  </book>
+  <book navtitle="Sales Training Video">
+    <page navtitle="Sales Staff Video" href="../contents/Employee_Care/HR_Policies/Sales_Staff_Video.htm"></page>
+  </book>
+</map>

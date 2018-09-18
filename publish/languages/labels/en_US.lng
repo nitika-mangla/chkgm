@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="GlossaryTab">
+    <element name="TabCaption" value="&amp;Glos32423sary"></element>
+    <element name="TermCaption" value="&amp;Terreesrwrm"></element>
+    <element name="DefinitionCaption" value="&amp;Deeqefinition For:"></element>
+  </section>
+  <section name="BrowseSequence">
+    <element name="PreCaption" value="Previousfdfdfd"></element>
+    <element name="PreTooltip" value="Previous Topicfdfdfd"></element>
+    <element name="NextCaption" value="Nextx xcvxcv"></element>
+    <element name="NextTooltip" value="Next Topicxvxvxvxv"></element>
+    <element name="BlockTooltip" value="Select Blockfh"></element>
+  </section>
+  <section name="Common">
+    <element name="Contents" value="Contentdddssds"></element>
+    <element name="Index" value="Ind5657576575ex"></element>
+    <element name="Search" value="Searc232424h"></element>
+    <element name="Glossary" value="Gloi8698798ussary"></element>
+    <element name="Logo/Author" value="Powere78787877d By"></element>
+    <element name="Hide" value="Hide535435"></element>
+    <element name="Prev" value="&lt;&lt;464646464646446"></element>
+    <element name="Next" value="&gt;&gt;68888"></element>
+    <element name="Disabled Prev" value="&lt;&lt;4545454"></element>
+    <element name="Disabled Next" value="&gt;&gt;35435435435353"></element>
+  </section>
+  <section name="ResponsiveHelp">
+    <element name="Search" value="-Search-34535435"></element>
+    <element name="IndexFilterKewords" value="Find Keyword"></element>
+    <element name="GlossaryFilterTerms" value="Find Term"></element>
+    <element name="EnableAndSearch" value="Display results with all search words"></element>
+    <element name="HighlightSearchResults" value="Highlight Search Results"></element>
+    <element name="Filter" value="Filtereerr"></element>
+    <element name="NavTip" value="Menu"></element>
+    <element name="nofavoritesFound" value="You have not marked any pages as favorite."></element>
+    <element name="FilterOptions" value="Content Filter Options"></element>
+    <element name="FilterIntro" value="Please select your filter(s):5435"></element>
+  </section>
+  <section name="PrintedDoc">
+    <element name="TableOfContents" value="Table of Conten545454546ts"></element>
+    <element name="TitlePage" value="Title 345353Page"></element>
+    <element name="ChapterFileNamePrefix" value="Chapter_wer werwr"></element>
+    <element name="CrossReferencePrefix" value="See23234234"></element>
+    <element name="GlossaryHeadingStyleName" value="Glossary Headingrtyryrytrty"></element>
+    <element name="GlossaryTermStyleName" value="Glossary3534535 Term"></element>
+    <element name="GlossaryDefinitionStyleName" value="Glossary Definitiontryryry"></element>
+  </section>
+  <section name="WebHelp">
+    <element name="Search" value="-Search-34535435"></element>
+    <element name="IndexFilterKewords" value="Find Keyword"></element>
+    <element name="GlossaryFilterTerms" value="Find Term"></element>
+    <element name="EnableAndSearch" value="Display results with all search words"></element>
+    <element name="HighlightSearchResults" value="Highlight Search Results"></element>
+    <element name="Filter" value="Filtereerr"></element>
+    <element name="NavTip" value="Menu"></element>
+    <element name="nofavoritesFound" value="You have not marked any pages as favorite."></element>
+    <element name="FilterOptions" value="Content Filter Options"></element>
+    <element name="FilterIntro" value="Please select your filter(s):5435"></element>
+  </section>
+</configuration>

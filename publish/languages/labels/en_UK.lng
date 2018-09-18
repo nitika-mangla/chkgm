@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="ResponsiveHelp">
+    <element name="JS_alert_InitDatabaseFailed" value="Failed to initialise database"></element>
+    <element name="Canceled" value="Canceled"></element>
+    <element name="ShowAll" value="All"></element>
+    <element name="EnableAndSearch" value="Display results with all search words"></element>
+    <element name="FavoriteBoxTitle" value="Favorites"></element>
+    <element name="setAsFavorites" value="Add to Favorites"></element>
+    <element name="unsetAsFavorite" value="Unset as favorite"></element>
+    <element name="favoritesLabel" value="Favorites"></element>
+    <element name="setAsFavorite" value="Set as favorite"></element>
+    <element name="nofavoritesFound" value="You have not marked any pages as favorite."></element>
+    <element name="Welcome_header" value="Welcome to our Help Center"></element>
+    <element name="FilterOptions" value="Content Filter Options"></element>
+  </section>
+  <section name="WebHelp">
+    <element name="JS_alert_InitDatabaseFailed" value="Failed to initialise database"></element>
+    <element name="Canceled" value="Canceled"></element>
+    <element name="ShowAll" value="All"></element>
+    <element name="EnableAndSearch" value="Display results with all search words"></element>
+    <element name="FavoriteBoxTitle" value="Favorites"></element>
+    <element name="setAsFavorites" value="Add to Favorites"></element>
+    <element name="unsetAsFavorite" value="Unset as favorite"></element>
+    <element name="favoritesLabel" value="Favorites"></element>
+    <element name="setAsFavorite" value="Set as favorite"></element>
+    <element name="nofavoritesFound" value="You have not marked any pages as favorite."></element>
+    <element name="Welcome_header" value="Welcome to our Help Center"></element>
+    <element name="FilterOptions" value="Content Filter Options"></element>
+  </section>
+</configuration>

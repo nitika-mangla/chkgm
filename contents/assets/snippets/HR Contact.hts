@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="topic-comment" content="Contact details for HR" />
+  <meta name="generator" content="Adobe RoboHelp 2019" />
+  <title>HR Contact</title>
+  <link rel="StyleSheet" href="../css/empcare-epub.css" type="text/css" />
+  <style type="text/css">
+    /*<![CDATA[*/
+    table.AlternateBlueColorGrid {
+      x-border-spacing: 0px;
+      x-row-pat-1: 1;
+      x-row-pat-1-name: t1Row;
+      x-row-pat-count: 2;
+      x-row-pat-2: 1;
+      x-row-pat-2-name: t2Row;
+      border-left-style: Solid;
+      border-left-width: 1px;
+      border-left-color: #4F81BD;
+      border-top-style: Solid;
+      border-top-width: 1px;
+      border-top-color: #4F81BD;
+    }
+    table.AlternateBlueColorGrid td {
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }
+    table.AlternateBlueColorGrid tr.t1Row td {
+      font-family: "Times New Roman";
+      font-size: 12pt;
+      border-right-style: Solid;
+      border-right-width: 1px;
+      border-right-color: #4F81BD;
+      border-bottom-style: Solid;
+      border-bottom-width: 1px;
+      border-bottom-color: #4F81BD;
+    }
+    table.AlternateBlueColorGrid tr.t2Row td {
+      border-right-style: Solid;
+      border-right-width: 1px;
+      border-right-color: #4F81BD;
+      border-bottom-style: Solid;
+      border-bottom-width: 1px;
+      border-bottom-color: #4F81BD;
+      background-color: #D3DFEE;
+    }
+    /*]]>*/
+  </style>
+</head>
+<body><object border="0" classid="clsid:ADB880A6-D8FF-11CF-9377-00AA003B7A11" height="0" hspace="0" id="hhctrl" type="application/x-oleobject" vspace="0" width="0"></object>
+  <h2>Contacting Human Resources</h2>
+  <p>Human Resources</p>
+  <h3 id="h31" style="position: relative;">heading 3<a class="glossterm" data-glossterm="Entitlement" href="#">Entitlement</a> can be <a class="dropspot" data-rhwidget="DropSpot" data-target="drop-down" href="#">contacted</a> at the following locations:</h3>
+  <div class="droptext" data-targetname="drop-down">
+    <p>Type your dropdown text here</p>
+  </div>
+  <h3 id="h32" style="position: relative;">Mail</h3>
+  <h5></h5>
+  <h5><img alt="" border="0" src="../images/Flag-UK.png" style="border: none;" /></h5>
+  <p><img alt="" border="0" src="../images/JS-Whirl-Logo-48.png" style="border: none;" /></p>
+  <p></p>
+  <table border="1" cellspacing="0" width="100%">
+    <colgroup>
+      <col style="width: 25%;" />
+      <col style="width: 25%;" />
+      <col style="width: 25%;" />
+      <col style="width: 25%;" />
+    </colgroup>
+    <tbody>
+      <tr>
+        <td>tutyu</td>
+        <td>tut</td>
+        <td>wer</td>
+        <td>ewr</td>
+      </tr>
+      <tr>
+        <td>
+          <p>tutu</p>
+        </td>
+        <td>tut</td>
+        <td>wr</td>
+        <td>werwre</td>
+      </tr>
+      <tr>
+        <td>tut</td>
+        <td>ytu</td>
+        <td>tu</td>
+        <td>wer</td>
+      </tr>
+      <tr>
+        <td>
+          <p>tutu</p>
+        </td>
+        <td>tut</td>
+        <td>wr</td>
+        <td>werwre</td>
+      </tr>
+      <tr>
+        <td>
+          <p>tutu</p>
+        </td>
+        <td>tut</td>
+        <td>wr</td>
+        <td>werwre</td>
+      </tr>
+    </tbody>
+  </table>
+  <p></p>
+  <p><span data-keyref="HR_Mail">First Avenue, Anytown, U.S.A.</span></p>
+  <h3 data-condition="Others:DHTML" id="h33" style="position: relative;">Email</h3>
+  <p data-condition="Others:DHTML"><a class="popupspot" href="JavaScript:hhctrl.TextPopup(&#39;This is a non functioning email address used in this sample project.&#39;,&#39;Microsoft Sans Serif,8&#39;,10,10,00000000,0xc0ffff)">hr.usa@whirltheworld.com</a></p>
+</body>
+</html>

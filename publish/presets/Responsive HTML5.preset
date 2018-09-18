@@ -1,0 +1,66 @@
+{
+  "content": {
+    "brs": [
+      {
+        "name": "Author_Info",
+        "path": "../browsesequence/Author_Info.brs"
+      },
+      {
+        "name": "HR_Policies_and_Procedures",
+        "path": "../browsesequence/HR_Policies_and_Procedures.brs"
+      },
+      {
+        "name": "newwwwww",
+        "path": "../browsesequence/newwwwww.brs"
+      }
+    ],
+    "glossary": {
+      "name": "EmployeeCare3",
+      "path": "../../glossary/EmployeeCare3.glo"
+    },
+    "index": true,
+    "toc": {
+      "name": "EmployeeCare3",
+      "path": "../../toc/EmployeeCare3.toc"
+    },
+    "variable": {
+      "name": "Dynamic Filtering",
+      "path": "../variablesets/Dynamic Filtering.var"
+    },
+    "masterpage": {
+      "name": "check",
+      "path": "../../contents/assets/masterpages/check.htt"
+    }
+  },
+  "createThumbNails": true,
+  "defaultTopic": {
+    "name": "Employee_Care/Introduction.htm",
+    "path": "../../contents/Employee_Care/Introduction.htm"
+  },
+  "filter": {
+    "name": "Responsive HTML5",
+    "path": "../filters/Responsive HTML5.filter"
+  },
+  "glosstermEffect": 0,
+  "name": "Responsive HTML5",
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/ResponsiveHTML5",
+  "search": {
+    "context": true,
+    "contextLimit": "100",
+    "fuzzy": true,
+    "glossary": true,
+    "suggestion": true
+  },
+  "sitemap": {
+    "changeFrequency": "Monthly",
+    "helpBaseURL": "",
+    "use": true
+  },
+  "skin": {
+    "name": "Azure_Blue",
+    "path": "../skins/Azure_Blue/html5.skn"
+  },
+  "starterPage": "index.htm",
+  "title": "Employee Care 3",
+  "type": "html5"
+}

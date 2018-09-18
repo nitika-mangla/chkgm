@@ -1,0 +1,44 @@
+{
+  "content": {
+    "index": true,
+    "toc": {
+      "path": "../../toc/EmployeeCare3.toc",
+      "name": "EmployeeCare3"
+    },
+    "glossary": {
+      "path": "../../glossary/EmployeeCare3.glo",
+      "name": "EmployeeCare3"
+    },
+    "conditional": {
+      "name": "US_Content",
+      "path": "../expressions/US_Content.expn"
+    },
+    "variable": {
+      "name": "US",
+      "path": "../variablesets/US.var"
+    },
+    "masterpage": "",
+    "brs": [],
+    "language": {
+      "name": "da_DK",
+      "displayName": "Danish (Denmark)",
+      "code": 2054
+    }
+  },
+  "outputPath": "C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Microsoft_HTML_Help_US",
+  "starterPage": "employeecare_us.chm",
+  "search": {
+    "context": false
+  },
+  "sitemap": {
+    "use": false,
+    "changeFrequency": ""
+  },
+  "name": "Microsoft_HTML_Help",
+  "type": "chm",
+  "title": "rh9_p_and_p_sample",
+  "defaultTopic": {
+    "name": "Employee_Care/Introduction.htm",
+    "path": "../../contents/Employee_Care/Introduction.htm"
+  }
+}

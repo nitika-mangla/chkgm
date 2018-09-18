@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="MasterPage">
+    <element name="MT_ShowString" value="Показать"></element>
+    <element name="MT_HideString" value="Скрыть"></element>
+  </section>
+  <section name="GlossaryTab">
+    <element name="TabCaption" value="&amp;Глоссарий"></element>
+    <element name="TermCaption" value="&amp;Термин"></element>
+    <element name="DefinitionCaption" value="&amp;Определение:"></element>
+  </section>
+  <section name="BrowseSequence">
+    <element name="PreCaption" value="Предыдущий"></element>
+    <element name="PreTooltip" value="Предыдущий раздел"></element>
+    <element name="NextCaption" value="Следующий"></element>
+    <element name="NextTooltip" value="Следующий раздел"></element>
+    <element name="BlockTooltip" value="Выбрать блок"></element>
+  </section>
+  <section name="Common">
+    <element name="Contents" value="Содержание"></element>
+    <element name="Index" value="Указатель"></element>
+    <element name="Search" value="Поиск"></element>
+    <element name="Glossary" value="Глоссарий"></element>
+    <element name="Logo/Author" value="Предоставляется"></element>
+    <element name="Show" value="Показать"></element>
+    <element name="Hide" value="Скрыть"></element>
+    <element name="SyncToc" value="Синхронизировать содержание"></element>
+    <element name="Prev" value="&lt;&lt;"></element>
+    <element name="Next" value="&gt;&gt;"></element>
+    <element name="Disabled Prev" value="&lt;&lt;"></element>
+    <element name="Disabled Next" value="&gt;&gt;"></element>
+    <element name="Seperate" value="|"></element>
+    <element name="OpenLinkInNewTab" value="Открыть в новой вкладке"></element>
+  </section>
+  <section name="ResponsiveHelp">
+    <element name="SearchOptions" value="Параметры поиска"></element>
+    <element name="Loading" value="Загрузка..."></element>
+    <element name="UnknownError" value="Неизвестная ошибка"></element>
+    <element name="Logo" value="Логотип"></element>
+    <element name="Search" value="Поиск"></element>
+    <element name="HomeButton" value="Главная"></element>
+    <element name="SearchPageTitle" value="Результаты поиска"></element>
+    <element name="PreviousLabel" value="Назад"></element>
+    <element name="NextLabel" value="Далее"></element>
+    <element name="TopicsNotFound" value="Разделов не найдено."></element>
+    <element name="JS_alert_LoadXmlFailed" value="Ошибка: не удалось загрузить файл xml."></element>
+    <element name="JS_alert_InitDatabaseFailed" value="Ошибка: не удалось инициализировать базу данных."></element>
+    <element name="JS_alert_InvalidExpression_1" value="Было набрано неверное выражение."></element>
+    <element name="Searching" value="Поиск…"></element>
+    <element name="Cancel" value="Отмена"></element>
+    <element name="Canceled" value="Отменено"></element>
+    <element name="ResultsFoundText" value="Найдено: %1 рез. для %2"></element>
+    <element name="SearchResultsPerScreen" value="Результаты поиска на страницу"></element>
+    <element name="Back" value="Назад"></element>
+    <element name="Next" value="&gt;&gt;"></element>
+    <element name="Prev" value="&lt;&lt;"></element>
+    <element name="TableOfContents" value="Содержание"></element>
+    <element name="IndexFilterKewords" value="Найти ключевое слово"></element>
+    <element name="GlossaryFilterTerms" value="Найти термин"></element>
+    <element name="ShowAll" value="Показать все"></element>
+    <element name="HideAll" value="Скрыть все"></element>
+    <element name="ShowHide" value="Показать/Скрыть"></element>
+    <element name="IeCompatibilityErrorMsg" value="Невозможно открыть эту страницу в Internet Explorer 8 и предыдущих версиях."></element>
+    <element name="NoScriptErrorMsg" value="Для просмотра страницы включите поддержку JavaScript в браузере."></element>
+    <element name="EnableAndSearch" value="Показать результаты, включающие все поисковые слова"></element>
+    <element name="HighlightSearchResults" value="Выделить результаты поиска"></element>
+    <element name="Print" value="Печать"></element>
+    <element name="Filter" value="Фильтр"></element>
+    <element name="SearchTitle" value="Поиск"></element>
+    <element name="ContentFilterChanged" value="Фильтр содержимого изменен, повторите поиск"></element>
+    <element name="EndOfResults" value="Конец списка результатов."></element>
+    <element name="Reset" value="Сброс"></element>
+    <element name="NavTip" value="Меню"></element>
+    <element name="ToTopTip" value="Наверх"></element>
+    <element name="ApplyTip" value="Применить"></element>
+    <element name="SidebarToggleTip" value="Развернуть/Свернуть"></element>
+    <element name="Copyright" value="© Copyright 2017. Все права защищены."></element>
+    <element name="FavoriteBoxTitle" value="Избранное"></element>
+    <element name="setAsFavorites" value="Добавить в Избранное"></element>
+    <element name="unsetAsFavorite" value="Удалить папку из Избранного"></element>
+    <element name="favoritesNameLabel" value="Имя"></element>
+    <element name="favoritesLabel" value="Избранное"></element>
+    <element name="setAsFavorite" value="Назначить избранным"></element>
+    <element name="nofavoritesFound" value="Вы не добавили страниц в Избранное."></element>
+    <element name="Welcome_header" value="Добро пожаловать в центр справки"></element>
+    <element name="Welcome_text" value="Как мы можем вам помочь?"></element>
+    <element name="FilterIntro" value="Выберите необходимые фильтры:"></element>
+    <element name="SearchButtonTitle" value="Поиск"></element>
+    <element name="ShowTopicInContext" value="Нажмите для отображения страницы целиком"></element>
+  </section>
+  <section name="PrintedDoc">
+    <element name="TableOfContents" value="Содержание"></element>
+    <element name="TitlePage" value="Титульный лист"></element>
+    <element name="ChapterFileNamePrefix" value="Глава_"></element>
+    <element name="TitlePageFileName" value="Глава__Название_Страница.doc"></element>
+    <element name="CrossReferencePrefix" value="См."></element>
+    <element name="GlossaryHeadingStyleName" value="Заголовок глоссария"></element>
+    <element name="GlossaryTermStyleName" value="Термин глоссария"></element>
+    <element name="GlossaryDefinitionStyleName" value="Определение глоссария"></element>
+    <element name="TitlePageTitleStyleName" value="Заголовок титульного листа"></element>
+    <element name="TocPageTitleStyleName" value="Заголовок страницы содержания"></element>
+  </section>
+  <section name="WebHelp">
+    <element name="SearchOptions" value="Параметры поиска"></element>
+    <element name="Loading" value="Загрузка..."></element>
+    <element name="UnknownError" value="Неизвестная ошибка"></element>
+    <element name="Logo" value="Логотип"></element>
+    <element name="Search" value="Поиск"></element>
+    <element name="HomeButton" value="Главная"></element>
+    <element name="SearchPageTitle" value="Результаты поиска"></element>
+    <element name="PreviousLabel" value="Назад"></element>
+    <element name="NextLabel" value="Далее"></element>
+    <element name="TopicsNotFound" value="Разделов не найдено."></element>
+    <element name="JS_alert_LoadXmlFailed" value="Ошибка: не удалось загрузить файл xml."></element>
+    <element name="JS_alert_InitDatabaseFailed" value="Ошибка: не удалось инициализировать базу данных."></element>
+    <element name="JS_alert_InvalidExpression_1" value="Было набрано неверное выражение."></element>
+    <element name="Searching" value="Поиск…"></element>
+    <element name="Cancel" value="Отмена"></element>
+    <element name="Canceled" value="Отменено"></element>
+    <element name="ResultsFoundText" value="Найдено: %1 рез. для %2"></element>
+    <element name="SearchResultsPerScreen" value="Результаты поиска на страницу"></element>
+    <element name="Back" value="Назад"></element>
+    <element name="Next" value="&gt;&gt;"></element>
+    <element name="Prev" value="&lt;&lt;"></element>
+    <element name="TableOfContents" value="Содержание"></element>
+    <element name="IndexFilterKewords" value="Найти ключевое слово"></element>
+    <element name="GlossaryFilterTerms" value="Найти термин"></element>
+    <element name="ShowAll" value="Показать все"></element>
+    <element name="HideAll" value="Скрыть все"></element>
+    <element name="ShowHide" value="Показать/Скрыть"></element>
+    <element name="IeCompatibilityErrorMsg" value="Невозможно открыть эту страницу в Internet Explorer 8 и предыдущих версиях."></element>
+    <element name="NoScriptErrorMsg" value="Для просмотра страницы включите поддержку JavaScript в браузере."></element>
+    <element name="EnableAndSearch" value="Показать результаты, включающие все поисковые слова"></element>
+    <element name="HighlightSearchResults" value="Выделить результаты поиска"></element>
+    <element name="Print" value="Печать"></element>
+    <element name="Filter" value="Фильтр"></element>
+    <element name="SearchTitle" value="Поиск"></element>
+    <element name="ContentFilterChanged" value="Фильтр содержимого изменен, повторите поиск"></element>
+    <element name="EndOfResults" value="Конец списка результатов."></element>
+    <element name="Reset" value="Сброс"></element>
+    <element name="NavTip" value="Меню"></element>
+    <element name="ToTopTip" value="Наверх"></element>
+    <element name="ApplyTip" value="Применить"></element>
+    <element name="SidebarToggleTip" value="Развернуть/Свернуть"></element>
+    <element name="Copyright" value="© Copyright 2017. Все права защищены."></element>
+    <element name="FavoriteBoxTitle" value="Избранное"></element>
+    <element name="setAsFavorites" value="Добавить в Избранное"></element>
+    <element name="unsetAsFavorite" value="Удалить папку из Избранного"></element>
+    <element name="favoritesNameLabel" value="Имя"></element>
+    <element name="favoritesLabel" value="Избранное"></element>
+    <element name="setAsFavorite" value="Назначить избранным"></element>
+    <element name="nofavoritesFound" value="Вы не добавили страниц в Избранное."></element>
+    <element name="Welcome_header" value="Добро пожаловать в центр справки"></element>
+    <element name="Welcome_text" value="Как мы можем вам помочь?"></element>
+    <element name="FilterIntro" value="Выберите необходимые фильтры:"></element>
+    <element name="SearchButtonTitle" value="Поиск"></element>
+    <element name="ShowTopicInContext" value="Нажмите для отображения страницы целиком"></element>
+  </section>
+</configuration>

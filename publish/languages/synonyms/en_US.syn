@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+  <DirectionalSynList>
+    <DirectionalSyn>
+      <From>employee</From>
+      <To>time</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>master</From>
+      <To>template</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>adobe</From>
+      <To>robohelp</To>
+      <To>framemaker</To>
+    </DirectionalSyn>
+  </DirectionalSynList>
+</Synonyms>

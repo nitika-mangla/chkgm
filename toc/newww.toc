@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="Outputs">
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/eBook_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Microsoft_HTML_Output_CHM.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Mobile_App_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Multiscreen_HTML5_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Printed_Documentation_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Responsive_HTML5_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/WebHelp_Output.htm"></page>
+    <page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/XML_Output.htm"></page>
+  </book>
+</map>
